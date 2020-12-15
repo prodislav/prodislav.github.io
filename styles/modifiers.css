@@ -1,0 +1,86 @@
+/* Размеры */
+
+.m-grid {
+    display: grid;
+}
+
+.m-flex {
+    display: flex;
+}
+
+.m-full-width {
+    width: 100%;
+}
+
+.m-text-center {
+    text-align: center;
+}
+
+
+/* Размер шрифта */
+
+.m-font-s30 {
+    font-size: 30px;
+}
+
+.m-font-s24 {
+    font-size: 24px;
+}
+
+.m-font-s16 {
+    font-size: 16px;
+}
+
+.m-font-w800 {
+    font-weight: 800;
+}
+
+.m-font-w500 {
+    font-weight: 500;
+}
+
+.m-line-h19 {
+    line-height: 19.5px;
+}
+
+
+/* Цвет текста */
+
+.m-col-white {
+    color: white;
+}
+
+.m-col-black {
+    color: black;
+}
+
+.m-col-blue {
+    color: #4985FF;
+}
+
+.m-col-gray {
+    color: #323232;
+}
+
+.m-col-lightgray {
+    color: #999999;
+}
+
+
+/* Задний фон */
+
+.m-bg-white {
+    background-color: white;
+}
+
+.m-bg-blue {
+    background-color: #4985FF;
+}
+
+.m-bg-gray {
+    background-color: #E0E0E0;
+}
+
+.m-bg-lightgray {
+    background-color: #F6F6F8;
+}
